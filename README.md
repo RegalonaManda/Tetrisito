@@ -29,3 +29,6 @@ TODO: credito a ti
 ## License
 
 TODO: la licencia de mi minga
+
+## Épico
+Estamos jodidos xd
