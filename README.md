@@ -2,7 +2,7 @@
 
 TODO: this is a tetris juego
 
-## Instalation
+## Installation
 
 TODO: Le das a instalar loquete
 
