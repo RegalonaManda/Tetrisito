@@ -8,9 +8,20 @@ We will recreate the gameplay and art and, if we have time, add features of our 
 
 ### Yeezus
 
+Wow!! That's a picture! Holy shit
+
+
+![Obama](https://i.kym-cdn.com/entries/icons/original/000/030/873/Screenshot_20.jpg "Obamium")
+
+
+
+
+Believe it or not, that's a video :o
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mhIrhcZ087c" title="YouTube video player"
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>
+
 
 
 
