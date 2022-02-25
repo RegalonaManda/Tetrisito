@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome Tetrisito 
 
 You can use the [editor on GitHub](https://github.com/RegalonaManda/Tetrisito/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is our end of the year project in which we will build a tetris (or maybe pac-man) clone. Most importantly, [yo mama](https://i.kym-cdn.com/entries/icons/original/000/030/873/Screenshot_20.jpg).
 
-### Markdown
+We will recreate the gameplay and art and, if we have time, add features of our own.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Yeezus
 
+Idk its here so we don't forget.
 ```markdown
 Syntax highlighted code block
 
